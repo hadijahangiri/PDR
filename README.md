@@ -64,6 +64,8 @@ Agent یک PRD کامل با ساختار زیر تولید خواهد کرد:
 - **`templates/prd-template.md`** - قالب خروجی PRD
 - **`examples/input-example.md`** - نمونه ورودی کامل
 - **`examples/output-example.md`** - نمونه خروجی PRD
+- **`Thesis-Defense-Management-System-PRD.md`** - نمونه PRD واقعی برای سیستم مدیریت دفاع پایان‌نامه
+- **`PRD-Summary.md`** - خلاصه سریع PRD سیستم مدیریت دفاع پایان‌نامه
 
 ### 💡 نکات مهم
 
@@ -178,6 +180,8 @@ The Agent will generate a complete PRD with this structure:
 - **`templates/prd-template.md`** - PRD output template
 - **`examples/input-example.md`** - Complete input example
 - **`examples/output-example.md`** - PRD output example
+- **`Thesis-Defense-Management-System-PRD.md`** - Real-world PRD example for Thesis Defense Management System
+- **`PRD-Summary.md`** - Quick reference summary of the Thesis Defense Management System PRD
 
 ### 💡 Best Practices
 
